@@ -18,7 +18,7 @@
    
    
    <p align="center">
-  <img src="ssstik.io_1790565690780.gif" width="700">
+  <img src="ssstik.io_1790565690780 (2).gif" width="700">
 </p>
 
 <p align="center">
