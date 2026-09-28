@@ -7,4 +7,4 @@
 
 
 
-   <img src="1000141562.gif" width="900">
+   <img src="1000141562.gif" width="2000">
